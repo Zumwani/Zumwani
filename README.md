@@ -5,7 +5,8 @@ I am a founder and developer of [Advanced Scene Manager](https://github.com/Lazy
 [![Developer - Advanced Scene Manager](https://img.shields.io/badge/Developer-Advanced_Scene_Manager-blue?style=for-the-badge)](https://assetstore.unity.com/packages/slug/174152 )
 
 [![Community Manager - Lazy Solutions](https://img.shields.io/badge/Community_Manager-Lazy_Solutions-blue?style=for-the-badge)](https://discord.gg/upfgXPxFnw)\
-<img alt="Discord" src="https://img.shields.io/discord/519089118467325952?style=flat-square&logo=discord&logoColor=white&label=Lazy%20Solutions&link=https%3A%2F%2Fdiscord.gg%2FqdTuxfGWCr" />
+<a href="https://discord.gg/qdTuxfGWCr">
+<img alt="Discord" src="https://img.shields.io/discord/519089118467325952?style=flat-square&logo=discord&logoColor=white&label=Lazy%20Solutions&link=https://discord.gg/upfgXPxFnw" />
 </a>
 
 ## 🔧 Technologies & Tools
