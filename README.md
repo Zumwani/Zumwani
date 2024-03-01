@@ -1,4 +1,4 @@
-Hey there, my name is Andreas Ingeholm and I am a programmer with experience in .Net since 2010. Unity since 2016. Webdev since 2021.
+Hey there, my name is Andreas Ingeholm and I am a programmer with experience in .Net since 2010, unity since 2016, webdev since 2021.
 
 I am a founder and developer of [Advanced Scene Manager](https://github.com/Lazy-Solutions/AdvancedSceneManager/) over at [Lazy Solutions](https://github.com/Lazy-Solutions).
 
