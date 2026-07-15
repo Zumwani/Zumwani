@@ -1,8 +1,8 @@
 Hey there, my name is Andreas Ingeholm and I am a programmer with experience in .Net since 2010, unity since 2016, webdev since 2021.
 
-I am a founder and developer of [Advanced Scene Manager](https://github.com/Lazy-Solutions/AdvancedSceneManager/) over at [Lazy Solutions](https://lazy.solutions/advanced-scene-manager).
+I am a founder and developer of [Advanced Scene Manager](https://github.com/Lazy-Solutions/AdvancedSceneManager/) over at [Lazy Solutions](https://lazy.solutions).
 
-[![Developer - Advanced Scene Manager](https://img.shields.io/badge/Developer-Advanced_Scene_Manager-blue?style=for-the-badge)](https://assetstore.unity.com/packages/slug/330926)
+[![Developer - Advanced Scene Manager](https://img.shields.io/badge/Developer-Advanced_Scene_Manager-blue?style=for-the-badge)](https://lazy.solutions/advanced-scene-manager)
 
 [![Community Manager - Lazy Solutions](https://img.shields.io/badge/Community_Manager-Lazy_Solutions-blue?style=for-the-badge)](https://discord.gg/upfgXPxFnw)\
 <a href="https://discord.gg/qdTuxfGWCr">
